@@ -19,6 +19,7 @@
 	      <artifactId>camunda-webapp</artifactId>
 	      <classifier>classes</classifier>
 	      <version>${camunda.version}</version>
+	      <scope>provided</scope>
 	    </dependency>
 		<dependency>
 			<groupId>javax</groupId>

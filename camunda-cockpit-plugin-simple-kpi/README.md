@@ -71,9 +71,9 @@ Now it will be shown on the start screen.
 
 
 
-[1]: https://raw.github.com/camunda/camunda-consulting/master/snippets/cockpit-plugin-reporting/screenshot.png
-[2]: https://raw.github.com/camunda/camunda-consulting/master/snippets/cockpit-plugin-reporting/screenshot2.png
+[1]: screenshot.png
+[2]: screenshot2.png
 
-[3]: https://raw.github.com/camunda/camunda-consulting/master/snippets/cockpit-plugin-reporting/KpiCycleTimeConfig.png
-[4]: https://raw.github.com/camunda/camunda-consulting/master/snippets/cockpit-plugin-reporting/KpiRatioConfig.png
+[3]: KpiCycleTimeConfig.png
+[4]: KpiRatioConfig.png
 
